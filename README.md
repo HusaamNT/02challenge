@@ -1,5 +1,5 @@
 # 02 Challenge 
-## Challeneges in the assignment
+## Challenges in the assignment
 As a beginner, it was hard to understand what made HTML more or less accessible. After comparing the code given in the task to the code I had previously written, I found that the code was a lot more complex. It wasn't as convoluted as it once appeared but the changes I applied made the code appear more visibly appealing aswell as more accessible.
 
 ## Changes made
