@@ -4,8 +4,8 @@ As a beginner, it was hard to understand what made HTML more or less accessible.
 
 ## Changes made
 To meet the acceptance criteria; 
--I separated each class so they were sectioned into their area. 
--Made the structure seem like they follow a logical structure and far easier to spot.
--Alt attributes were added to images for accessibility standards.
--The title was assigned appropriately.
--The structure is clearer and still in a logical order.
+*I separated each class so they were sectioned into their area. 
+*Made the structure seem like they follow a logical structure and far easier to spot.
+*Alt attributes were added to images for accessibility standards.
+*The title was assigned appropriately.
+*The structure is clearer and still in a logical order.
